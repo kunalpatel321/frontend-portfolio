@@ -5,6 +5,12 @@
     float: left;
     padding-left: 330px;
     padding-top: 50px;
+    
+}
+
+.project-heading{
+    text-align: center;
+    font-size: 40px;
 }
 
 
@@ -14,9 +20,12 @@
     width: 400px;
     height: 500px;
     padding-left: 50px;
-    padding-top: 50px;
-    
-    
+    padding-top: 50px;    
 }
 
 
+
+.projects{
+    padding-bottom: 30px;
+
+}

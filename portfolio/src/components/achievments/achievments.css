@@ -1,9 +1,20 @@
 
-.heading{
+.achievment-heading{
     font-size: 40px;
+    text-align: center;
+    padding-left:800px ;
+
+
 }
 
 .details{
     font-size: 20px;
     color: #868e96;
+    padding-left:800px ;
+
+
+}
+
+.achiev{
+    float: right;
 }

@@ -6,9 +6,9 @@ export default class Contact extends Component {
     return (
 
         <div className='contact'>
-        <h1 className='heading'>Contact Me <span>📞</span></h1>
+        <h1 className='contact-heading'>Contact Me <span>📞</span></h1>
 
-        <div className='details'>
+        <div className='cdetails'>
             <p >+91-9157404372</p>
             <p >patelkunal754@gmail.com</p>
         </div>

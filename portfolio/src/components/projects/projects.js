@@ -14,7 +14,9 @@ import foods from "../logos/foods.jpg"
 export default class Projects extends Component {
   render() {
     return (
-        <div >
+        <div className='projects' >
+
+        <h1 className='project-heading'>Projects</h1>
 
 
 <div className='card'>
