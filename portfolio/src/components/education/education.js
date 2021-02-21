@@ -13,16 +13,18 @@ export default class Education extends Component {
 
             <div className='edu-card'>
 
-                <div><img src={pulogo}/></div>
+                <div ><img src={pulogo} height="100" width="150"/></div>
                 <div className='details'>
+                
                 <h2>Parul University</h2>
                 <h2>B.Tech in Computer Science</h2>
                 <p>July 2018 - May 2022 </p>
 
                 </div>
+                <br></br>
 
                 <div className='details'>
-                <div><img src={svvlogo}/></div>
+                <div ><img src={svvlogo} height="120" width="150"/></div>
                 <h2>Shree Vasishtha Vidhyalaya</h2>
                 <h2>Senior Secondary</h2>
                 <p>June 2016 - June 2018 </p>

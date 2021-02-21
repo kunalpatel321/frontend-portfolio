@@ -14,16 +14,9 @@ export default class Introduction extends Component {
             exposure in the field of Machine Learning,<br/> 
             deep Learning and Front-End Development
         </article>
-        <br></br>
+        
 
-        <div className='button-div'>
-            <div>
-                <a className="buttons">Contact Me</a>
-            </div>
-            <div>
-                <a className="buttons">My Resume</a>
-            </div>
-        </div>
+      
         
     
 

@@ -1,0 +1,19 @@
+.skills{
+    font-size: 70px;
+    list-style-type:none ;
+    color: #868e96;
+    
+}
+
+.line{
+    display: flex;
+}
+   
+
+.name{
+    font-size :20px;
+    color: black;
+    text-align: center;
+
+}
+    
