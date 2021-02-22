@@ -2,8 +2,13 @@
     display: flex;
     flex-direction: column ;
     padding-top: 30px;
-    float:left; 
+    
+    padding-left: 50px;
+}
 
+.education-heading{
+    font-size: 60px;
+    padding-left: 50px;
 }
 
 

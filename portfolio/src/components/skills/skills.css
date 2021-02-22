@@ -1,5 +1,5 @@
 .skills{
-    font-size: 70px;
+    font-size: 90px;
     list-style-type:none ;
     color: #868e96;
     
@@ -14,6 +14,17 @@
     font-size :20px;
     color: black;
     text-align: center;
-
 }
+
+.skill-heading{
+    font-size: 30px;
+}
+
+
+.skill{
+    padding-left: 50px;
+    font-size: 60px;
+    
+}
+
     

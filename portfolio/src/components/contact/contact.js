@@ -4,8 +4,10 @@ import "./contact.css"
 export default class Contact extends Component {
   render() {
     return (
-
+      
         <div className='contact'>
+        <a id="con"></a>
+        
         <h1 className='contact-heading'>Contact Me <span>📞</span></h1>
 
         <div className='cdetails'>

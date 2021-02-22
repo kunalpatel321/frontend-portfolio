@@ -6,7 +6,8 @@ export default class Skills extends Component {
   render() {
     return (
       <div className='skill'>
-           <h1 className='heading'>Skills 👨‍💻</h1>
+      <a id="ss"></a>
+           <div className='skill-heading'><h1>Skills 👨‍💻</h1></div>
             <article className='icons'>
           
               <ul className='line'>

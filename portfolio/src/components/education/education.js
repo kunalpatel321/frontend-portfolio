@@ -17,7 +17,7 @@ export default class Education extends Component {
                 
                 
                 <h2>Parul University</h2>
-                <h2>B.Tech in Computer Science</h2>
+                <h3>B.Tech in Computer Science</h3>
                 <p>July 2018 - May 2022 </p>
 
                 </div>
@@ -25,12 +25,12 @@ export default class Education extends Component {
          
               
               
-              
+              <br></br>
                 
                 <div className='edu-details'>
                 <img src={svvlogo} height="120" width="150"/>
                 <h2>Shree Vasishtha Vidhyalaya</h2>
-                <h2>Senior Secondary</h2>
+                <h3>Senior Secondary</h3>
                 <p>June 2016 - June 2018 </p>
                 </div>
 

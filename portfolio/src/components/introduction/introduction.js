@@ -6,7 +6,7 @@ export default class Introduction extends Component {
     return (
         <div className='Intro'>
         
-        <h1 className='heading'>Hi all, I'm Kunal <span>👋</span></h1>
+        <h1 className='intro-heading'>Hi all, I'm Kunal <span>👋</span></h1>
     
         <article className='shortintro'>
             A Passionate Computer Scince student<br/>

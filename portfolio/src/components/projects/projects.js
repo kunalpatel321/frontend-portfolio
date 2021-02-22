@@ -16,7 +16,7 @@ export default class Projects extends Component {
     return (
         <div className='projects' >
 
-        <h1 className='project-heading'>Projects</h1>
+        <h1 className='project-heading'>Projects <span>😃 + 💻 + 🧠 = 🏆</span></h1>
 
 
 <div className='card'>

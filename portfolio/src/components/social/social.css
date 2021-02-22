@@ -1,0 +1,39 @@
+
+.icon-button {
+    margin-bottom: 10px;
+  }
+  
+  .icon-button i {
+    color: white;
+    border-radius: 2.6rem;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.3rem;
+    height: 2.6rem;
+    line-height: 2.6rem;
+    margin: 0 5px;
+    position: relative;
+    text-align: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 2.6rem;
+    margin-bottom: 10px;
+    transition: 0.2s ease-in;
+  }
+
+
+ .con-icons{
+     font-size: 50px;
+     padding-left: 50px;
+     padding-top: 20px;
+     
+ }
+
+
+
+
+ .icon-button-linkedin{
+    padding-left: 25px;
+ }

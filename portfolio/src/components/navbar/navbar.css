@@ -1,8 +1,14 @@
 .navbar{
     display: grid;
-    background: white;
-    padding: 0rem 0rem;
+    background: black;
     grid-template-columns: auto 1fr;
+    height: 100px;   
+
+}
+
+.kunal{
+    padding-top:25px;
+    padding-left: 15px;
 }
 
 .navlinks{
@@ -11,7 +17,7 @@
     list-style-type:none;
     text-align: center;
     align-self: center;
-    
+    padding-top: 8px;
 }
 
 .nav-link{
@@ -19,6 +25,9 @@
     text-align: center;
     color: black;
     font-size: 20px;
-    color: #868e96
+    color: #868e96;
+}
 
+.navlinks :hover{
+    color: white;
 }
